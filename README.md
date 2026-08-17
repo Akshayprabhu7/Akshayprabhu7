@@ -128,24 +128,6 @@ Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
 
 ---
 
-## 📊 GitHub Stats
-
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshayprabhu7&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayprabhu7&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshayprabhu7&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 🌐 **Portfolio:**  
